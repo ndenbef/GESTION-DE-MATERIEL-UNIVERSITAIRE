@@ -94,7 +94,6 @@ class Sortie:
         self.quantite = quantite
 
 
-
 class Fournisseurs:
     def __init__(self, id, nom, telephone):
         self.id = id
